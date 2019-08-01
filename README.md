@@ -4,7 +4,8 @@ At the end of these instructions you will have:
 
 ```bash
 # create conda env
-conda create -n torch python=3.6
+# Type the python version you are using after '=' sign 
+conda create -n torch python=3.7.3
 
 # activate the created environment
 conda activate torch
